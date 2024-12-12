@@ -108,6 +108,17 @@ body {
     background: linear-gradient(135deg, #1d4ed8, #2563eb);
 }
 
+.socialsContentBox {
+    background: #cacbcc;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+}
+
+.socialsContentBox > img{
+    max-width: 75px;  
+}
 
 .pageButton {
     display: inline-block;
